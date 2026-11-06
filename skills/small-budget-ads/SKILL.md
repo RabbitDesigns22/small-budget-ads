@@ -28,6 +28,24 @@ Most ad advice assumes thousands per month and clean A/B tests. Small local busi
 - Each ad against the average of its own ad set. Each ad set against itself (its past weeks) or against ad sets of the same product.
 - Never one product against another (roof repair vs general services, preschool vs high school). Don't recommend moving money from one product's ad set to another just because it is cheaper, and don't remove ad sets the business wants to keep even if they cost more.
 
+## 2b. How the account is built (the technique)
+
+Small budget, and new ads always competing. Structure that works:
+- **One ad set = one product or service**, each with its own small daily budget.
+- **Different goals never share a campaign.** For example, a "recruit new resellers" campaign (videos about the opportunity) and a "sell the product" campaign stay apart. If a client can only afford one ad set, it carries whatever is working best.
+- **A local service business with one star service** can run two campaigns for that service (it wants many of those jobs) and one for everything else.
+- **Only matching pieces go in each ad set.** Before adding a piece, open its preview and confirm it is about that ad set's product or service. A roof photo never goes in "general services"; a recruitment video never goes in "sales".
+
+## 2c. "Not tested" is not "lost"
+
+Meta gives almost all of an ad set's spend to its current winner. In real small accounts, over 7 days the winning ad took about 95-99% of its ad set's budget. So:
+- A new ad that spent less than 2x the ad set's benchmark is **not tested**, not a loser. Don't turn it off for being "bad".
+- If it still gets no spend after two review cycles (for example two weeks), replace it with another piece of the same product: there should always be new ads competing.
+- **Judge by spend, not by week.** With minimum budgets an ad set gets anywhere from 1 to 50 conversations a week; the 2x-benchmark rule decides.
+- **Add new ads together, on a fixed day of the week**, right after turning off the losers. Never one per day.
+- **Duplicate the ad inside the ad set, not the ad set.** A duplicated ad set restarts learning and often costs far more per conversation than the original.
+- **Use posts that already exist on the page** ("Use existing post") so ads keep their likes and comments as social proof. First this week's posts, then ones that worked before; organic posts count too.
+
 ## 3. What to recommend (in this order)
 
 | What you see (with enough data) | Recommendation |
@@ -37,6 +55,7 @@ Most ad advice assumes thousands per month and clean A/B tests. Small local busi
 | Whole ad set ≥ 2x its own benchmark | Add 1-2 genuinely new pieces to the same ad set (a different idea, not the same photo with new text) |
 | High frequency (≈5+) and cost rising week over week | New piece; first rule out budget changes, payments, edits and seasonality |
 | Ad "Active" with 0 impressions for 48 h+ | Not the creative: check the Ad Library (is it really running?), billing (balance, card, limit), account quality, then the ad set settings |
+| New ad that spent less than 2x the benchmark (Meta barely gave it money) | Don't turn it off: "not tested". If nothing changes after two review cycles, replace it with another piece of the same product |
 | Cheap ad with volume | Don't touch it. Make variations of that idea for other ad sets of the same product |
 
 ## 4. What NOT to recommend
