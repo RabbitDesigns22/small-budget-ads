@@ -23,7 +23,7 @@
 With the [skills CLI](https://skills.sh):
 
 ```bash
-npx skills add RabbitDesigns22/small-budget-ads
+npx skills@1.8.1 add https://github.com/RabbitDesigns22/small-budget-ads/tree/0e6b44b66bb0dd1c5152a595a213d23c77633b44
 ```
 
 Or manually: copy `skills/small-budget-ads/` into `~/.claude/skills/` for all your projects, or into `.claude/skills/` for one project.
@@ -37,7 +37,7 @@ Or manually: copy `skills/small-budget-ads/` into `~/.claude/skills/` for all yo
 
 **Decisiones de Meta Ads para presupuestos chicos.** Para negocios locales con 1 a 5 dólares al día por conjunto y campañas a WhatsApp: esperar datos suficientes (7 días), comparar cada conjunto solo consigo mismo, llamar "malo" a un anuncio solo si gastó 2 veces su costo normal, nunca dejar un conjunto con un solo anuncio, no duplicar para "arreglar" y pedir permiso al dueño antes de cualquier cambio.
 
-Instalar: `npx skills add RabbitDesigns22/small-budget-ads`
+Instalar: `npx skills@1.8.1 add https://github.com/RabbitDesigns22/small-budget-ads/tree/0e6b44b66bb0dd1c5152a595a213d23c77633b44`
 
 ## More skills from the same setup
 
